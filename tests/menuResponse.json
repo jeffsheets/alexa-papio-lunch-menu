@@ -1,0 +1,1680 @@
+{
+  "FamilyMenuSessions": [
+    {
+      "ServingSession": "Lunch",
+      "MenuPlans": [
+        {
+          "MenuPlanName": "Elementary Finishing Kitchen Lunch 2020/2021",
+          "Days": [
+            {
+              "Date": "2/19/2021",
+              "RecipeCategories": [
+                {
+                  "CategoryName": "Entree",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "e8d0ea96-a7d2-ea11-a2cb-a01264c58bf0",
+                      "RecipeIdentifier": "50092",
+                      "RecipeName": "Cheese Omelet & Cinnamon Roll",
+                      "ServingSize": "Each",
+                      "GramPerServing": 145.75786587777779,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 388,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 8,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 425,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 47,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c25ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "4777645b-b7cd-ea11-a2c7-c1ebd340f634",
+                      "RecipeIdentifier": "50078",
+                      "RecipeName": "Yogurt & String Cheese w/Cinnamon Roll",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 227.25675476666669,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 428,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 8,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 455,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 60,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c25ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Vegetable",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "3aec0202-12bb-ea11-a2cf-e80d9578fb54",
+                      "RecipeIdentifier": "200019",
+                      "RecipeName": "Potato Rounds",
+                      "ServingSize": "2 Each",
+                      "GramPerServing": 72.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 90,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 190,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 15,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Fruit",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "bb1c3cd7-7ba6-ea11-b194-b916e3e3bee5",
+                      "RecipeIdentifier": "70004",
+                      "RecipeName": "Apricot Cup",
+                      "ServingSize": "Each",
+                      "GramPerServing": 128.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 125,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 5,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 32,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Milk",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "e0a6529f-86a6-ea11-b194-9e356bb6c6e8",
+                      "RecipeIdentifier": "20017",
+                      "RecipeName": "Milk, White 1%",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 100,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 105,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 12,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "36c87dd8-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20018",
+                      "RecipeName": "Milk, Chocolate Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 110,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 190,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 18,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "f02ed9f1-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20019",
+                      "RecipeName": "Milk, Strawberry Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 120,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 95,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 22,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Date": "2/22/2021",
+              "RecipeCategories": [
+                {
+                  "CategoryName": "Entree",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "21fcbd9e-a49a-ea11-9e0f-89a3d6018148",
+                      "RecipeIdentifier": "50036",
+                      "RecipeName": "Fiestada",
+                      "ServingSize": "Each",
+                      "GramPerServing": 154.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 360,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 6,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 710,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 43,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "749f0e70-c984-ea11-bd64-ca5c57b15f38",
+                        "87493a31-7dd6-ea11-a2d1-d544ec2c662f"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "391b5a69-b1cd-ea11-a2c7-c1ebd340f634",
+                      "RecipeIdentifier": "50075",
+                      "RecipeName": "Yogurt & String Cheese w/Cinnamon Bread",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 237.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 420,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 5,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 500,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 60,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c25ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "749f0e70-c984-ea11-bd64-ca5c57b15f38"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Vegetable",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "42c88051-92b5-ea11-a2cb-be917278773a",
+                      "RecipeIdentifier": "200008",
+                      "RecipeName": "Baby Carrots",
+                      "ServingSize": "1/2 Cup",
+                      "GramPerServing": 123.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 43,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 96,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 6,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Fruit",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "8cfd3ce0-1bdd-ea11-a2c8-c40abc20b2ec",
+                      "RecipeIdentifier": "70039",
+                      "RecipeName": "Strawberries",
+                      "ServingSize": "1/2 Cup",
+                      "GramPerServing": 111.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 39,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 10,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Milk",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "e0a6529f-86a6-ea11-b194-9e356bb6c6e8",
+                      "RecipeIdentifier": "20017",
+                      "RecipeName": "Milk, White 1%",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 100,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 105,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 12,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "36c87dd8-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20018",
+                      "RecipeName": "Milk, Chocolate Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 110,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 190,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 18,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "f02ed9f1-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20019",
+                      "RecipeName": "Milk, Strawberry Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 120,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 95,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 22,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Date": "2/23/2021",
+              "RecipeCategories": [
+                {
+                  "CategoryName": "Entree",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "899e1cce-e725-eb11-a2c5-a71d95be3549",
+                      "RecipeIdentifier": "50135",
+                      "RecipeName": "Chicken Nuggets & Garlic Breadstick",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 116.1,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 286,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 898,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 28,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "749f0e70-c984-ea11-bd64-ca5c57b15f38",
+                        "b71daf9a-c984-ea11-bd64-ca5c57b15f38",
+                        "f9e62d60-c984-ea11-bd64-fb3a0f818ff4"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "efeb9bf6-b5cd-ea11-a2c7-9140e86f96c2",
+                      "RecipeIdentifier": "50077",
+                      "RecipeName": "Yogurt & String Cheese w/Garlic Breadstick",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 13385.478650000001,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 236,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 4,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 757,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 29,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "b71daf9a-c984-ea11-bd64-ca5c57b15f38",
+                        "f9e62d60-c984-ea11-bd64-fb3a0f818ff4"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Vegetable",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "ddf1f31c-94e1-ea11-a2cc-e0959920d993",
+                      "RecipeIdentifier": "200034",
+                      "RecipeName": "Celery",
+                      "ServingSize": "1/2 Cup",
+                      "GramPerServing": 50.5,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 7,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 41,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Fruit",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "59b46e92-8de1-ea11-a2cc-c012c4828e59",
+                      "RecipeIdentifier": "70042",
+                      "RecipeName": "Applesauce Cup",
+                      "ServingSize": "Each",
+                      "GramPerServing": 128.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 60,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 15,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 14,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Milk",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "36c87dd8-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20018",
+                      "RecipeName": "Milk, Chocolate Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 110,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 190,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 18,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "f02ed9f1-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20019",
+                      "RecipeName": "Milk, Strawberry Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 120,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 95,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 22,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "e0a6529f-86a6-ea11-b194-9e356bb6c6e8",
+                      "RecipeIdentifier": "20017",
+                      "RecipeName": "Milk, White 1%",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 100,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 105,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 12,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Date": "2/24/2021",
+              "RecipeCategories": [
+                {
+                  "CategoryName": "Entree",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "4377c03f-e825-eb11-a2c5-edf9276710be",
+                      "RecipeIdentifier": "115",
+                      "RecipeName": "Cheesy Taco Burger",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 208.06708190909092,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 442,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 7,
+                          "HasMissingNutrients": true,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 744,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 40,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "87493a31-7dd6-ea11-a2d1-d544ec2c662f"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "d521c77f-1d07-eb11-a2c9-af0dd0779ae8",
+                      "RecipeIdentifier": "50119",
+                      "RecipeName": "Yogurt & String Cheese w/Goldfish Cheddar Crackers",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 162.262125,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 250,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 4,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 430,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 28,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Vegetable",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "7851b6e1-9ab5-ea11-a2cb-be917278773a",
+                      "RecipeIdentifier": "200009",
+                      "RecipeName": "Cucumber Slices",
+                      "ServingSize": "1/2 Cup",
+                      "GramPerServing": 52.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 8,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 1,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Fruit",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "0d855c11-0cbb-ea11-a2cf-a2358860aae1",
+                      "RecipeIdentifier": "70030",
+                      "RecipeName": "Peaches",
+                      "ServingSize": "1/2 Cup",
+                      "GramPerServing": 124.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 60,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 10,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 14,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Milk",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "e0a6529f-86a6-ea11-b194-9e356bb6c6e8",
+                      "RecipeIdentifier": "20017",
+                      "RecipeName": "Milk, White 1%",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 100,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 105,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 12,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "36c87dd8-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20018",
+                      "RecipeName": "Milk, Chocolate Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 110,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 190,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 18,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "f02ed9f1-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20019",
+                      "RecipeName": "Milk, Strawberry Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 120,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 95,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 22,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Date": "2/25/2021",
+              "RecipeCategories": [
+                {
+                  "CategoryName": "Entree",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "6694e185-e53f-eb11-a2c5-9caa65f37e09",
+                      "RecipeIdentifier": "50138",
+                      "RecipeName": "Sausage Links  & Cornbread Poppers (syrup)",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 127.22286467669173,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 381,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 11,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 521,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 19,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c25ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "749f0e70-c984-ea11-bd64-ca5c57b15f38"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "fe95752d-e63f-eb11-a2c5-dec3323894cc",
+                      "RecipeIdentifier": "50139",
+                      "RecipeName": "Yogurt & String Cheese w/ Cornbread Poppers (syrup)",
+                      "ServingSize": "Serving",
+                      "GramPerServing": 224.30827067669173,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 442,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 9,
+                          "HasMissingNutrients": true,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 461,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 60,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c25ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c85ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "c95ea998-db78-ea11-bd65-9de4e94ad6c2",
+                        "749f0e70-c984-ea11-bd64-ca5c57b15f38",
+                        "ce0a4d47-426a-eb11-a2c5-fb38b59acc5c"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Vegetable",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "e15d17a7-eba0-ea11-b194-beb2c231bf95",
+                      "RecipeIdentifier": "200002",
+                      "RecipeName": "Cherry Tomatoes",
+                      "ServingSize": "1/2 Cup",
+                      "GramPerServing": 122.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 14,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 4,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 3,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Fruit",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "e5898c40-9ab5-ea11-a2cb-be917278773a",
+                      "RecipeIdentifier": "70023",
+                      "RecipeName": "Mixed Berry Cup",
+                      "ServingSize": "Each",
+                      "GramPerServing": 113.0,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 90,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 20,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                },
+                {
+                  "CategoryName": "Milk",
+                  "Color": "#000000",
+                  "Recipes": [
+                    {
+                      "ItemId": "e0a6529f-86a6-ea11-b194-9e356bb6c6e8",
+                      "RecipeIdentifier": "20017",
+                      "RecipeName": "Milk, White 1%",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 100,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 2,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 105,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 12,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "36c87dd8-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20018",
+                      "RecipeName": "Milk, Chocolate Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 110,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 190,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 18,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    },
+                    {
+                      "ItemId": "f02ed9f1-86a6-ea11-b194-8dd1ed91e53c",
+                      "RecipeIdentifier": "20019",
+                      "RecipeName": "Milk, Strawberry Fat Free",
+                      "ServingSize": "Each",
+                      "GramPerServing": 226.796,
+                      "Nutrients": [
+                        {
+                          "Name": "Calories",
+                          "Value": 120,
+                          "HasMissingNutrients": false,
+                          "Unit": "kcals",
+                          "Abbreviation": "Cal"
+                        },
+                        {
+                          "Name": "Saturated Fat",
+                          "Value": 0,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Sfat"
+                        },
+                        {
+                          "Name": "Sodium",
+                          "Value": 95,
+                          "HasMissingNutrients": false,
+                          "Unit": "mg",
+                          "Abbreviation": "Na"
+                        },
+                        {
+                          "Name": "Total Carbohydrate",
+                          "Value": 22,
+                          "HasMissingNutrients": false,
+                          "Unit": "g",
+                          "Abbreviation": "Carb"
+                        }
+                      ],
+                      "Allergens": [
+                        "c35ea998-db78-ea11-bd65-9de4e94ad6c2"
+                      ],
+                      "ReligiousRestrictions": [],
+                      "DietaryRestrictions": [],
+                      "HasNutrients": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "AcademicCalenderId": "6dda4733-028f-ea11-bd67-f8b59b041866"
+        }
+      ]
+    }
+  ],
+  "AcademicCalendars": []
+}

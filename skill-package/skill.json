@@ -1,0 +1,54 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Alexa will tell you the elementary lunch menu for today or tomorrow for Papillion LaVista Elementary Schools",
+          "examplePhrases": [
+            "Alexa, ask Papio Menu what's for lunch today",
+            "Alexa, ask Papio Menu what is for lunch tomorrow",
+            "Alexa, ask Papio Menu what are we having for lunch on Friday"
+          ],
+          "name": "Papio Menu Lunch Bot",
+          "description": "Hear the elementary lunch menu for Papillion La-Vista Schools from Alexa by saying:\n\"Alexa ask Papio Menu what's for lunch today\"\nor \"Alexa ask Papio Menu what is for lunch tomorrow\"\nor \"Alexa ask Papio Menu what are we having for lunch on Friday\"",
+          "keywords": [
+            "papio schools",
+            "papillion lavista schools",
+            "elementary lunch menu",
+            "lunch menu"
+          ],
+          "updatesDescription": "New for Papio Elementary students! Say: \"Alexa, ask Papio Menu what's for lunch today\"",
+          "smallIconUri": "file://assets/appleSmall.png",
+          "largeIconUri": "file://assets/appleLarge.png"
+        }
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "Alexa, ask Papio Menu what's for lunch today\nAlexa, ask Papio Menu what is for lunch tomorrow\nAlexa, ask Papio Menu what are we having for lunch on Friday",
+      "category": "SCHOOLS",
+      "distributionCountries": [
+        "US"
+      ]
+    },
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "locales": {
+        "en-US": {
+          "privacyPolicyUrl": "https://gist.github.com/jeffsheets/1b191a175e2e19a78161b8f894bc9398",
+          "termsOfUseUrl": "https://gist.github.com/jeffsheets/1b191a175e2e19a78161b8f894bc9398"
+        }
+      }
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:897300559642:function:ask-alexa-papio-bot-default-default-1613753426470"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

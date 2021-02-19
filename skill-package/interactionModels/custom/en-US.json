@@ -1,0 +1,44 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "papio menu",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "LunchMenuIntent",
+                    "slots": [
+                        {
+                            "name": "menuDate",
+                            "type": "AMAZON.DATE"
+                        }
+                    ],
+                    "samples": [
+                        "what is for lunch {menuDate}",
+                        "what's for lunch {menuDate}",
+                        "what are we having for lunch {menuDate}",
+                        "what is for lunch on {menuDate}",
+                        "what's for lunch on {menuDate}",
+                        "what are we having for lunch on {menuDate}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+  }
+  
