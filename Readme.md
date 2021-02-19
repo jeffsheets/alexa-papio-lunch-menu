@@ -13,7 +13,7 @@ But I picked PQ as that's the school closest to my home.
 `Alexa, ask Papio Menu what are we having for lunch on Thursday`
 
 ## How does it work?
-This hits the XML endpoint for the school lunch calendar, then parses it,
+This hits the JSON API endpoint for the school lunch calendar, then parses it,
 and Alexa reads it back to us.
 
 It could break at any time if the schools calendar app changes, or the developer
