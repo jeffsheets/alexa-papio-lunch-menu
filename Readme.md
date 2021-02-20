@@ -4,7 +4,7 @@ This Alexa app will read you the Papillion LaVista Elementary schools lunch menu
 
 The calendar it reads from is at [PLCS School Lunch Calendar](https://family.titank12.com/menu/TC4F9D)
 
-Alexa gets the XML filtered for Prairie Queen Elementary, which I think should be the same for all schools?
+Alexa gets the calendar filtered for Prairie Queen Elementary, which I think should be the same for all schools?
 But I picked PQ as that's the school closest to my home.
 
 ## Use it
