@@ -37,8 +37,8 @@
       "containsAds": false,
       "locales": {
         "en-US": {
-          "privacyPolicyUrl": "https://gist.github.com/jeffsheets/1b191a175e2e19a78161b8f894bc9398",
-          "termsOfUseUrl": "https://gist.github.com/jeffsheets/1b191a175e2e19a78161b8f894bc9398"
+          "privacyPolicyUrl": "https://raw.githubusercontent.com/jeffsheets/alexa-papio-lunch-menu/main/PRIVACY",
+          "termsOfUseUrl": "https://raw.githubusercontent.com/jeffsheets/alexa-papio-lunch-menu/main/PRIVACY"
         }
       }
     },
