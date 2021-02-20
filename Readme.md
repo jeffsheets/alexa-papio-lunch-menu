@@ -57,7 +57,7 @@ The choice is up to you though, it shouldn't matter much besides the deploy step
 1. When ready, submit through the Alexa Developer Console to get published on the Alexa app store!
 
 ### Credits
-Source from a calendar menu API found at [PLCS School Lunch Calendar](https://family.titank12.com/menu/TC4F9D) \
+Data is sourced from a calendar menu API found at [PLCS School Lunch Calendar](https://family.titank12.com/menu/TC4F9D) \
 Uses the [ASK CLI from AWS](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/tree/2.0.x/ask-sdk-local-debug) for Alexa. \
 Function code is inspired by https://github.com/adamgruber/alexa-lunchlady
 Apple image clipart found for free from http://clipart-library.com/free-apple-clipart.html
