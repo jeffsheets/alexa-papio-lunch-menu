@@ -67,3 +67,6 @@ Apple image clipart found for free from http://clipart-library.com/free-apple-cl
 - [ ] Cache the calendar lookup results (or lambda execution by params) for an hour or two
 - [ ] Unit tests
 - [ ] Setup CI/CD or tryout the Alexa-hosted CI/CD process that didn't work for me the first time
+- [ ] Why does Amazon have ask-resources.json in .gitignore by default? \
+  https://developer.amazon.com/en-US/docs/alexa/smapi/ask-cli-command-reference.html#init-command
+  
