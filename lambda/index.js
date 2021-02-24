@@ -2,45 +2,29 @@
 // Please visit https://alexa.design/cookbook for additional examples on implementing slots, dialog management,
 // session persistence, api calls, and more.
 const Alexa = require('ask-sdk-core');
-const axios = require('axios');
+const lunchMenu = require('./lunchMenu');
 
 const LaunchRequestHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest';
     },
     handle(handlerInput) {
-        const speakOutput = 'Welcome, you can say Hello or Help. Which would you like to try?';
+        const speakOutput = 'Welcome, you can say Alexa ask Papio Menu What\'s for lunch today, or Help. Which would you like to try?';
         return handlerInput.responseBuilder
             .speak(speakOutput)
             .reprompt(speakOutput)
             .getResponse();
     }
 };
-const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 const LunchMenuIntentHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest'
             && Alexa.getIntentName(handlerInput.requestEnvelope) === 'LunchMenuIntent';
     },
     async handle(handlerInput) {
-        const menuDate = handlerInput.requestEnvelope.request.intent.slots.menuDate.value || new Date().toISOString().slice(0,10);
-        const response = await axios.get('https://family.titank12.com/api/FamilyMenu', {
-            params: {
-                buildingId: '283e94c2-ca80-ea11-bd63-ffff13125edb', //prairie queen
-                districtId: 'c05ea998-db78-ea11-bd65-9de4e94ad6c2', //PLCSchools
-                startDate: menuDate
-            }
-        });
-        const day = response.data.FamilyMenuSessions[0].MenuPlans[0].Days[0];
-        const entrees = day.RecipeCategories.find(it => it.CategoryName === 'Entree').Recipes;
-        const entreeNames = entrees.map(it => it.RecipeName);
-        //2/19/2021
-        const foundDate = new Date(day.Date);
-        const speakOutput = `Lunch options for ${weekdays[foundDate.getDay()]} ${months[foundDate.getMonth()]} ${foundDate.getDate()} are ${entreeNames.join(" and also ")}`;
-        const cleanedOutput = Alexa.escapeXmlCharacters(speakOutput);
+        const lunchMenuSpeech = await lunchMenu.handleRequest(handlerInput.requestEnvelope.request);
         return handlerInput.responseBuilder
-            .speak(cleanedOutput)
+            .speak(Alexa.escapeXmlCharacters(lunchMenuSpeech))
             //.reprompt('add a reprompt if you want to keep the session open for the user to respond')
             .getResponse();
     }
@@ -51,7 +35,9 @@ const HelpIntentHandler = {
             && Alexa.getIntentName(handlerInput.requestEnvelope) === 'AMAZON.HelpIntent';
     },
     handle(handlerInput) {
-        const speakOutput = 'Ask me What\'s for lunch';
+        const speakOutput = `Try saying Alexa ask Papio Menu what\'s for lunch today,
+        or Alexa ask Papio Menu what is for lunch tomorrow,
+        or Alexa ask Papio Menu what are we having for lunch on Monday`;
 
         return handlerInput.responseBuilder
             .speak(speakOutput)
