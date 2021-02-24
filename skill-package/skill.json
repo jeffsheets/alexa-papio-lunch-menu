@@ -32,7 +32,7 @@
     "privacyAndCompliance": {
       "allowsPurchases": false,
       "usesPersonalInfo": false,
-      "isChildDirected": false,
+      "isChildDirected": true,
       "isExportCompliant": true,
       "containsAds": false,
       "locales": {
