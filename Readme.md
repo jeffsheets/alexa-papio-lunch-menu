@@ -73,8 +73,8 @@ Function code is inspired by https://github.com/adamgruber/alexa-lunchlady
 Apple image clipart found for free from http://clipart-library.com/free-apple-clipart.html
 
 ### TODO
-- [ ] Refactor the "menu retrieval" code into a service
-- [ ] Cache the calendar lookup results (or lambda execution by params) for an hour or two
+- [x] Refactor the "menu retrieval" code into a service
+- [x] Cache the calendar lookup results (or lambda execution by params) for an hour or two
 - [ ] Unit tests
 - [ ] Setup CI/CD or tryout the Alexa-hosted CI/CD process that didn't work for me the first time
 - [ ] Why does Amazon have ask-resources.json in .gitignore by default? \
