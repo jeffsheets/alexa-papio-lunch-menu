@@ -10,7 +10,7 @@
             "Alexa, ask Papio Menu what are we having for lunch on Friday"
           ],
           "name": "Papio Menu Lunch Bot",
-          "description": "Hear the elementary lunch menu for Papillion La-Vista Schools from Alexa by saying:\n\"Alexa ask Papio Menu what's for lunch today\"\nor \"Alexa ask Papio Menu what is for lunch tomorrow\"\nor \"Alexa ask Papio Menu what are we having for lunch on Friday\"",
+          "description": "Hear the elementary lunch menu for Papillion La-Vista Schools from Alexa by saying:\n\"Alexa ask Papio Menu what's for lunch today\"\nor \"Alexa ask Papio Menu what is for lunch tomorrow\"\nor \"Alexa ask Papio Menu what are we having for lunch on Friday\"\nor \"Alexa ask Papio Menu what is for lunch on March 9, 2021\"",
           "keywords": [
             "papio schools",
             "papillion lavista schools",
@@ -23,7 +23,7 @@
         }
       },
       "isAvailableWorldwide": false,
-      "testingInstructions": "Alexa, ask Papio Menu what's for lunch today\nAlexa, ask Papio Menu what is for lunch tomorrow\nAlexa, ask Papio Menu what are we having for lunch on Friday\nIf asking during Spring or Summer Break, you will hear that no menu is found. So try asking for a specific date during the school year then like: Alexa, ask Papio Menu what is for lunch on March 9 2021",
+      "testingInstructions": "Alexa, ask Papio Menu what's for lunch today\nAlexa, ask Papio Menu what is for lunch tomorrow\nAlexa, ask Papio Menu what are we having for lunch on Friday\nIf asking during Spring or Summer Break, you will hear that no menu is found. So try asking for a specific date during the school year then like: Alexa, ask Papio Menu what is for lunch on March 9, 2021",
       "category": "SCHOOLS",
       "distributionCountries": [
         "US"
