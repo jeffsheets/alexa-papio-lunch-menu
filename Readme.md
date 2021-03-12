@@ -10,7 +10,8 @@ I picked PQ as that's the school closest to my home.
 ## Use it
 `Alexa, ask Papio Menu what's for lunch today` \
 `Alexa, ask Papio Menu what is for lunch tomorrow` \
-`Alexa, ask Papio Menu what are we having for lunch on Thursday`
+`Alexa, ask Papio Menu what are we having for lunch on Thursday` \
+`Alexa, ask Papio Menu what is for lunch March 9, 2021`
 
 ## How does it work?
 This hits the JSON API endpoint for the school lunch calendar, then parses it,

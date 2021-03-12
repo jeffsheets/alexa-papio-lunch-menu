@@ -10,8 +10,13 @@ module.exports.fetchMenu = async function fetchMenu(menuDate) {
             startDate: menuDate
         }
     });
-
     try {
+        //Handle Spring Break case where there is no menu for a week
+        if (!response.data.FamilyMenuSessions || response.data.FamilyMenuSessions.length === 0) {
+            console.warn(`No menu found in ${JSON.stringify(response.data)}`);
+            return false;
+        }
+
         const day = response.data.FamilyMenuSessions[0].MenuPlans[0].Days[0];
         const entrees = day.RecipeCategories.find(it => it.CategoryName === 'Entree').Recipes;
         const entreeNames = entrees.map(it => it.RecipeName);
