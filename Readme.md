@@ -7,6 +7,8 @@ The calendar it reads from is at [PLCS School Lunch Calendar](https://family.tit
 Alexa gets the calendar filtered for Prairie Queen Elementary, which I think should be the same for all schools?
 I picked PQ as that's the school closest to my home.
 
+Published to the Amazon Alexa Skill store https://www.amazon.com/Jeff-Sheets-Papio-Menu-Lunch/dp/B08ZNJ2FQY/
+
 ## Use it
 `Alexa, ask Papio Menu what's for lunch today` \
 `Alexa, ask Papio Menu what is for lunch tomorrow` \
