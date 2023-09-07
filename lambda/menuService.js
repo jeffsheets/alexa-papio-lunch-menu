@@ -19,7 +19,7 @@ module.exports.fetchMenu = async function fetchMenu(menuDate) {
         }
 
         const day = response.data.FamilyMenuSessions[0].MenuPlans[0].Days[0];
-        const entrees = day.RecipeCategories.find(it => it.CategoryName === 'Entree').Recipes;
+        const entrees = day.MenuMeals[0].RecipeCategories.find(it => it.CategoryName === 'Entree').Recipes;
         const entreeNames = entrees.map(it => it.RecipeName);
         return { date: day.Date, entreeNames };
     } catch (error) {
